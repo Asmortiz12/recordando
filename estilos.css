@@ -1,0 +1,63 @@
+h1{  color: brown;
+
+}
+.col{
+    background: rgb(43, 145, 145);
+}
+
+.menu{
+    display: inline-block;
+    background: rgba(46, 46, 173, 0.486);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    border: 2px solid;
+}
+.menu:hover{
+    background: rgba(46, 46, 161, 0.986);
+    color: aliceblue;
+}
+    nav{
+        background: rgba(0, 0, 255, 0.658);
+        padding: 20px 40px;
+        
+    }
+    .busqueda{
+        background: rgb(124, 145, 240);
+        padding: 10px 30px;
+        border-radius: 10px;
+    }
+   
+   .flex-container{ 
+    display: flex;
+    background: rgb(164, 164, 240);
+    padding: 10px 30px;
+    border-radius: 10px;
+    flex-direction:  row-reverse;
+   }
+.busqueda:hover{
+    background: rgba(46, 46, 161, 0.986);
+    color: rgba(13, 125, 223, 0.918);
+
+}
+.pie-pag{
+    background: slategrey;
+    color:white;
+    text-align: center;
+}
+.card{
+    box-shadow: 10px 5px 5px rgb(28, 32, 36);
+
+}
+.card:hover{
+    transform: scale(1.2);
+
+}
+.item{
+    background: rgb(71, 123, 190);
+}
+.imagen{
+    border: solid;
+}
